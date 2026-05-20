@@ -256,21 +256,19 @@ Who founded SpaceX?
 
 ## Screenshots
 
-### Main Interface
 
-(Add screenshot here)
-
----
 
 ### Question Answering Demo
 
-(Add screenshot here)
+<img width="1233" height="778" alt="image" src="https://github.com/user-attachments/assets/a20d4ecc-763d-416a-91fa-b1b53a7fc124" />
+
 
 ---
 
 ### Graph Visualization
 
-(Add screenshot here)
+<img width="900" height="511" alt="image" src="https://github.com/user-attachments/assets/5359af5a-9716-4b64-bb07-014c8b7fbb7d" />
+
 
 ---
 
